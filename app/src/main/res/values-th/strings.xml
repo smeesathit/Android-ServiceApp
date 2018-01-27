@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">แอพเซอร์วิส</string>
+    <string name="title">ตัวอย่างการใช้ Service</string>
+    <string name="startButton">เริ่ม Service</string>
+    <string name="stopButton">หยุด Service</string>
+</resources>
